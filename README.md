@@ -31,14 +31,14 @@ Hardware – PCs, Cyclone II , USB flasher
 
 
 **Program:**
-
+```
 module ex2 (a,b,c,d,w,x,y,z,f1,f2);
 input a,b,c,d,w,x,y,z;
 output f1,f2;
 assign f1 = ~a&~b&~c&~d | a&~c&~d | ~b&c&~d | ~a&b&c&d | b&~c&d;
 assign f2 = x&~y&z | ~x&~y&z | ~w&x&y | w&~x&y | w&x&y;
 endmodule
-
+```
 
 **Developed by:**
 
@@ -48,14 +48,9 @@ Janesha S
 
 25018817
 
-**RTL realization**
+**RTL logic**
 
 <img width="1920" height="1080" alt="Screenshot (131)" src="https://github.com/user-attachments/assets/0d2bdf64-a4f2-46be-b38d-d44d9fd1fff2" />
-
-
-**Output:**
-
-**RTL**
 
 **Timing Diagram**
 
