@@ -55,7 +55,7 @@ Janesha S
 
 **Timing Diagram**
 
-<img width="1920" height="1080" alt="Screenshot (142)" src="https://github.com/user-attachments/assets/15a8fce4-e23e-4432-a3ff-df9e9fadd4d2" />
+<img width="1920" height="1080" alt="Screenshot (149)" src="https://github.com/user-attachments/assets/566edd12-1b21-4622-882f-941325b5d88e" />
 
 **Result:**
 
