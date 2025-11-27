@@ -15,7 +15,7 @@ Hardware – PCs, Cyclone II , USB flasher
 **Software – Quartus prime**
 
 **Truth Table**
-
+<img width="503" height="220" alt="image" src="https://github.com/user-attachments/assets/45fec5b2-b1c4-44d8-922d-ecdaf10099e1" />
 
 **Procedure**
 
@@ -50,9 +50,11 @@ Janesha S
 
 **RTL logic**
 
-<img width="1920" height="1080" alt="Screenshot (131)" src="https://github.com/user-attachments/assets/0d2bdf64-a4f2-46be-b38d-d44d9fd1fff2" />
+<img width="1920" height="1080" alt="Screenshot (141)" src="https://github.com/user-attachments/assets/1fbda5a3-fa40-479f-872e-4571916463cc" />
 
 **Timing Diagram**
+
+<img width="1920" height="1080" alt="Screenshot (142)" src="https://github.com/user-attachments/assets/15a8fce4-e23e-4432-a3ff-df9e9fadd4d2" />
 
 **Result:**
 
